@@ -7,10 +7,11 @@
 import pandas as pd
 import numpy as np
 
+pip install --upgrade -r requirements.txt
 
 # In[3]:
 
 
-txt = input("Please enter the text")
+txt = "Please enter the text"
 print(txt)
 
